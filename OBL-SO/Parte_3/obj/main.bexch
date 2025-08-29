@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr
+20241130182306 1a3d1294cf636a2f73082d6e7ece6fe0
+[BOUND OBJECT FILES]
+D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\obj\
+-LD:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\obj\
+-LD:/facultad/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+D:/facultad/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+D:/facultad/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

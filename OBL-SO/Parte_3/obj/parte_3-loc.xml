@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+<<<<<<< HEAD
+    <file_marker column=" 16" line=" 251" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 261" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 319" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 312" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 319" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 94" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 319" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 312" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 251" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 108" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 257" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 302" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 112" line=" 246" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 249" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 247" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 78" line=" 250" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 299" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 303" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 319" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 69" line=" 233" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 244" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 319" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 103" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 91" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 17" line=" 103" >
+      <vfs_project>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+=======
+    <vfs_file >C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_file>
+    <file_marker column=" 1" line=" 235">
+      <vfs_project >C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file >C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 244">
+      <vfs_project >C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file >C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file >C:\Users\felid\OneDrive\Escritorio\Facultad\Semestre 4\os\Obli\OBL-SO\Parte_3\src\main.adb</vfs_file>
+>>>>>>> 7007e9c8a7693e8c95b8a61a634912b7cd9b7d5e
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\parte_3.gpr</vfs_project>
+      <vfs_file>D:\facultad\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 4\S.O\OBL-SO\Parte_3\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
